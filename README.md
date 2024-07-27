@@ -1,4 +1,4 @@
-# QuickColor
+# ShowException
 
 **ShowException** is a Python exception display assitant providing pretty print capability of exception details from a specified code area/module name. CLI test functionality provided to demo display characteristics for several exception types.
 
